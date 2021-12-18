@@ -2,6 +2,11 @@
 
 This project is for me to try nest.js.
 
+## require
+
+- node.js v17.3.0
+- yarn
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
